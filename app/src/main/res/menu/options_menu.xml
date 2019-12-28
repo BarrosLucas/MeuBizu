@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ajuda"
+        android:title="Ajuda">
+    </item>
+
+    <item
+        android:id="@+id/direitos_autorais"
+        android:title="Direitos autorais">
+    </item>
+
+</menu>

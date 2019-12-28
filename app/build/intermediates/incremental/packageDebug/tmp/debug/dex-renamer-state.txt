@@ -1,0 +1,4 @@
+#Sat Dec 28 19:02:14 GFT 2019
+base.0=C\:\\Users\\lucas\\Documents\\Amor\\ProjetoAndroid\\ProjetoAndroid\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
